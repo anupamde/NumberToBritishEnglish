@@ -1,4 +1,4 @@
-com\talktalk\towords\vo\NumberToProcess.class
-com\talktalk\towords\vo\BritishNumericGroup.class
-com\talktalk\towords\NumberToWords.class
-com\talktalk\towords\impl\NumberToBritishWords.class
+com\convert\towords\vo\BritishNumericGroup.class
+com\convert\towords\vo\NumberToProcess.class
+com\convert\towords\impl\NumberToBritishWords.class
+com\convert\towords\NumberToWords.class

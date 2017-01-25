@@ -1,4 +1,4 @@
 BritishNumberTestSuite.class
-com\talktalk\towords\impl\NumberToBritishWordsTest.class
-com\talktalk\towords\vo\BritishNumericGroupTest.class
-com\talktalk\towords\vo\NumberToProcessTest.class
+com\convert\towords\impl\NumberToBritishWordsTest.class
+com\convert\towords\vo\NumberToProcessTest.class
+com\convert\towords\vo\BritishNumericGroupTest.class
